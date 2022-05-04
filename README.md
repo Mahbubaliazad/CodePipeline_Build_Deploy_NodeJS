@@ -1,4 +1,4 @@
-# aws_codebuild_codedeploy_nodeJs_demo
+# aws_codebuild_codedeploy_nodeJs
 This repository contains sample codes to work with AWS 
 
 This Project build_script directory contains build related script, check buildspec.yml file I have integrated the same. 
@@ -38,7 +38,4 @@ chmod +x ./install
 sudo ./install auto
 
 
-node-app-youtube-demo
-
-
-aws deploy push --application-name NodeAppServerDeployment --s3-location "s3://node-app-youtube-demo/codedeploydemo/app.zip" --ignore-hidden-files 
+Thank you!
